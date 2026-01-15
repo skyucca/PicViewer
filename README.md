@@ -70,7 +70,7 @@ pip install PySide6
 ## Run in your terminal:
 
 ```Shell
-python viewer.py
+python PicViewer.py
 ```
 
 # 使用指南 / Usage Guide
